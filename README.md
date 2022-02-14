@@ -3,11 +3,11 @@
 ## Purpose
 A website that offers fitness training services.
 
-##Built with
-*HTML
-*CSS
+## Built with
+* HTML
+* CSS
 
-##Website
+## Website
 https://lernantino.github.io/run-buddy/
 
 ## Contribution
